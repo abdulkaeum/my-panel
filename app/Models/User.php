@@ -48,8 +48,8 @@ class User extends Authenticatable
         $this->attributes['password'] = bcrypt($password);
     }
 
-    public function tasks()
+    public function todolists()
     {
-        return $this->hasMany(Task::class);
+        return $this->hasMany(TodoList::class);
     }
 }

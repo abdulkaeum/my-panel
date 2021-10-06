@@ -22,14 +22,6 @@
             color: #3d68ff;
         }
 
-        .upgrade-btn {
-            background: #1947ee;
-        }
-
-        .upgrade-btn:hover {
-            background: #0038fd;
-        }
-
         .active-nav-link {
             background: #1947ee;
         }
