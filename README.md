@@ -21,8 +21,8 @@ Inspired by the features of the Microsoft ToDo
 
 #### Screenshots
 
-<img alt="" width="" src="public/app_screenshots/todo.png">
+<img alt="" style="max-width: 800px; width: 100%;" src="public/app_screenshots/todo.png">
 
 <br>
 
-<img alt="" width="" src="public/app_screenshots/list.png">
+<img alt="" style="max-width: 800px; width: 100%;" src="public/app_screenshots/list.png">
