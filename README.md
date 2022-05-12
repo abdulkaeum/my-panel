@@ -1,6 +1,6 @@
 ## A ToDo app
 
-Inspired by the features of the Microsoft ToDo
+Inspired by the features of the <a href="https://todo.microsoft.com/tasks/" target="_blank">Microsoft To Do app</a>
 
 #### Features
 - Register & login
